@@ -18,7 +18,7 @@ Tested with [Dev-C++ (orwell)](https://sourceforge.net/projects/orwelldevcpp/) /
 * For this design, you have to maintain a queue also. No job can start printing until the one enqueued right before it completes.
 
 
-## MULTI-THREADED SPOOLER
+## MULTI-PROCESS SPOOLER
 
 Tested with [Onlinegdb](https://www.onlinegdb.com/online_c_compiler)
 

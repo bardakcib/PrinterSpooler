@@ -26,6 +26,9 @@ Tested with [Onlinegdb](https://www.onlinegdb.com/online_c_compiler)
 
 
 # Main Flows and Sample
+
+find more in [report](https://github.com/bardakcib/PrinterSpooler/blob/main/Report.pdf)  
+
 ![](https://github.com/bardakcib/PrinterSpooler/blob/main/resources/mt.PNG)
 
 ![](https://github.com/bardakcib/PrinterSpooler/blob/main/resources/mp.PNG)

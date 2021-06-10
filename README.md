@@ -6,7 +6,7 @@
 ![](https://github.com/bardakcib/resources/blob/main/badges/vscode.svg)
 
 
-## MULTI-THREADED SPOOLER
+## MULTI-THREAD SPOOLER
 
 Tested with [Dev-C++ (orwell)](https://sourceforge.net/projects/orwelldevcpp/) / Windows 
 

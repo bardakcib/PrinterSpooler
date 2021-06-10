@@ -1,5 +1,5 @@
-# PrinterSpooler
-## Printer spooler simulation MultiThread and MultiProcess versions written in C
+# Printer Spooler Simulation
+## MultiThread and MultiProcess versions written in C
 
 ![](https://github.com/bardakcib/resources/blob/main/badges/built-with-love.svg)
 ![](https://github.com/bardakcib/resources/blob/main/badges/made-with-c.svg)

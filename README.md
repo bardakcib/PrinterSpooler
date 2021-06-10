@@ -25,6 +25,11 @@ Tested with [Onlinegdb](https://www.onlinegdb.com/online_c_compiler)
 * Use processes instead of threads.
 
 
+# Main Flows and Sample
+![](https://github.com/bardakcib/PrinterSpooler/blob/main/resources/mt.PNG)
+![](https://github.com/bardakcib/PrinterSpooler/blob/main/resources/mp.PNG)
+![](https://github.com/bardakcib/PrinterSpooler/blob/main/resources/sample.png)
+
 
 ## References
 

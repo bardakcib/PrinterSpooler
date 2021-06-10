@@ -1,5 +1,5 @@
 # PrinterSpooler
-## Printer spooler simulation Multi-thread and Multi-process versions written in C
+## Printer spooler simulation MultiThread and MultiProcess versions written in C
 
 ![](https://github.com/bardakcib/resources/blob/main/badges/built-with-love.svg)
 ![](https://github.com/bardakcib/resources/blob/main/badges/made-with-c.svg)
@@ -27,7 +27,9 @@ Tested with [Onlinegdb](https://www.onlinegdb.com/online_c_compiler)
 
 # Main Flows and Sample
 ![](https://github.com/bardakcib/PrinterSpooler/blob/main/resources/mt.PNG)
+
 ![](https://github.com/bardakcib/PrinterSpooler/blob/main/resources/mp.PNG)
+
 ![](https://github.com/bardakcib/PrinterSpooler/blob/main/resources/sample.png)
 
 
